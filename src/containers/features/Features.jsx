@@ -9,7 +9,7 @@ const featuresData = [
   },
   {
     title: 'Classe de Première',
-    text: 'Il y a deux classes de première : la première A et la seconde D.'
+    text: 'Il y a deux classes de première : la première A et la première D.'
   },
   {
     title: 'Classe de Seconde',

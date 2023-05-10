@@ -11,13 +11,13 @@ function Blog() {
       </div>
       <div className='gpt3__blog-container'>
         <div className='gpt3__blog-container_groupA'>
-          <Article imgUrl={avatar1} date="Sep 26, 2022" title="Enseignant: M. LATE Amenyona Enyo"/>
+          <Article imgUrl={avatar1} date="Mars 10, 2023" title="Enseignant: M. LATE Amenyona Enyo"/>
         </div>
         <div className='gpt3__blog-container_groupB'>
-        <Article imgUrl={avatar2} date="Sep 26, 2022" title="1914 translation by H. Rackham"/>
-        <Article imgUrl={avatar3} date="Sep 26, 2022" title="1914 translation by H. Rackham"/>
-        <Article imgUrl={avatar4} date="Sep 26, 2022" title="1914 translation by H. Rackham"/>
-        <Article imgUrl={avatar5} date="Sep 26, 2022" title="1914 translation by H. Rackham"/>
+        <Article imgUrl={avatar2} date="Mars 10, 2023" title="Les élèves de la quatrième II"/>
+        <Article imgUrl={avatar3} date="Mars 10, 2023" title="Les élèves de la cinquième I"/>
+        <Article imgUrl={avatar4} date="Mars 10, 2023" title="Les élèves de la quatrième I"/>
+        <Article imgUrl={avatar5} date="Mars 10, 20232" title="Les élèves de la sixième"/>
         </div>
       </div>
     </div>

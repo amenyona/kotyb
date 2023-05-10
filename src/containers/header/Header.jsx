@@ -15,8 +15,8 @@ function Header() {
         </div>
 
         <div className='gpt3__header-content__people'>
-          <img src={people} alt="people" />
-          <p>Kotyb, sa rigueure fait notre choix.</p>
+          {/* <img src={people} alt="people" /> */}
+          <p>Le lycée Privé Moderne KOTYB est une école de référence qui de sa rigueure fait notre choix.</p>
         </div>
 
 
