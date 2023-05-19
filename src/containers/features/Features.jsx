@@ -5,15 +5,15 @@ import './features.css';
 const featuresData = [
   {
     title: 'Classe de Terminale',
-    text: 'Le Lycée Privé Moderne KOTYB dispose de deux classes de terminale.IL y a la classe de terminale A et celle de D.'
+    text: 'Le Lycée Privé Moderne KOTYB dispose de deux classes de terminale: une terminale A et une terminale D.'
   },
   {
     title: 'Classe de Première',
-    text: 'Il y a deux classes de première : la première A et la première D.'
+    text: 'Il y a deux classes de première : une première A et une première D.'
   },
   {
     title: 'Classe de Seconde',
-    text: 'Il y a deux classes de seconde : la seconde A et la seconde D.'
+    text: 'Il y a deux classes de seconde : une seconde A et une seconde D.'
   },
   {
     title: 'Classe de Troisème',
@@ -29,7 +29,7 @@ const featuresData = [
   },
   {
     title: 'Classe de Sixième',
-    text: 'Il y a trois classes de sixième.'
+    text: 'Le Lycée Privé Moderne KOTYB dispose de trois classes de sixième.'
   },
 ]
 

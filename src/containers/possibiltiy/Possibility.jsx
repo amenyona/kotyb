@@ -10,8 +10,7 @@ function Possibility() {
       </div>
       <div className='gpt3__possibility-content'>
         <h1 className='gradient__text'>Les mots des représentants des élèves</h1>
-        <p>Le Lycée Privé Moderne KOTYB est une référence en discipline, en travail et en rigueur.Cette école se démarque beaucoup des autres par le programme de nos cours qui est différent des programmes de certains de nos amis d'autres écoles.
-        Le Lycée Privé Moderne KOTYB est synonyme de la réussite sinon égale.Nous avons un corps professoral attentif et soucieux pour nous élèves.
+        <p>Nous les élèves du Lycée Privé Moderne KOTYB avons confiance en notre école vis-à-vis du fait que nous avons la garantie de préper avec soin notre réussite scolaire et universitaire, de part la qualité de sa discipline, de sa rigueur, et de ses programmes de cours exceptionnels qu'il nous inculque.
         </p>
         <h4>Le Lycée Privé Moderne KOTYB, notre assurance pour la réussite!!!</h4>
       </div>

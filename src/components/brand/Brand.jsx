@@ -1,25 +1,21 @@
 import React from 'react';
 import './brand.css';
-import { slack, github, dropbox, mail_chimp, dribbble } from './import';
+import { xajoblogo, pushlogo } from './import';
 
 function Brand() {
   return (
     <div className='gpt3_brand section__padding'>
+     <a href='https://pushtudio.com/'> 
       <div>
-        <img src={slack} alt="slack" />
+        <img src={xajoblogo} alt="slack" className='taille'/>
         </div>
+        </a>
+        <a href='https://www.xajob.biz/'>
         <div>
-          <img src={github} alt="github" />
+          <img src={pushlogo} alt="dropbox" className='taille'/>
         </div>
-        <div>
-          <img src={dropbox} alt="dropbox" />
-        </div>
-        <div>
-          <img src={mail_chimp} alt="mail_chimp" />
-        </div>
-        <div>
-          <img src={dribbble} alt="dribbble" />
-        </div>            
+        </a>
+                 
     </div>
   )
 }

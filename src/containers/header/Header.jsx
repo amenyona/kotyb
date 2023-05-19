@@ -8,7 +8,7 @@ function Header() {
     <div className='gpt3__header section__padding' id='home'>
       <div className='gtp3__header-content'>
         <h1 className='gradient__text'>Les mots du Directeur: YAMEOGO MAGLOIRE</h1>
-        <p>Kotyb est un établissement d'enseignement fondé par des enseignants professionnels.Elle est dirigée par une équipe pédagodigue compétente,motivée et trempée par plusieurs années d'enseignement.Elle fait de la discipline un pilier de la réussite scolaire. Elle offre des frais de scolarité comptétitifs avec des effectifs scolaires. Elle a un partenaiat sérieux avec les parents d'élèves. </p>
+        <p>Le Lycée Privé Moderne KOTYB est un établissement d'enseignement fondé par des enseignants professionnels.Dirigé par une équipe pédagodigue compétente et expérimentée, KOTYB fait de la discipline le socle, le pilier de la réussite scolaire. Le Lycée Privé Moderne KOTYB offre des frais de scolarité compétitifs avec des effectifs raisonnables. </p>
         <div className='gtp3__header-content__input'>
           {/* <input type="email" placeholder='Your Email Adress' />
           <button type='button'>Get Started</button> */}
@@ -16,7 +16,7 @@ function Header() {
 
         <div className='gpt3__header-content__people'>
           {/* <img src={people} alt="people" /> */}
-          <p>Le lycée Privé Moderne KOTYB est une école de référence qui de sa rigueure fait notre choix.</p>
+          <p>Le Lycée Privé Moderne KOTYB est une école de référence qui, par sa rigueur fait notre choix. </p>
         </div>
 
 
