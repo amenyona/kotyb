@@ -13,29 +13,34 @@ function Footer() {
       </div> */}
       <div className='gpt3__footer-links'>
         <div className='gtp3__footer-links_logo'>
-          <img src={logo} alt="logo"/>
-          <p>The standard Lorem Ipsum passage, used since the 1500s</p>
-        </div>  
+          <img src={logo} alt="logo" />
+          <p>Le Lycée Privé Moderne KOTYB, notre assurance pour la réussite!!!</p>
+        </div>
         <div className='gpt3__footer-links_div'>
-          <h4>inks</h4>
-          <p>Overons</p>
-          <p>Social Media</p>
-          <p>Counters</p>
-          <p>Contact</p>
-        </div>   
+          <h4>Liens</h4>
+          <p><a href='#accueil'>Accueil</a></p>
+          <p><a href='#apropos'>Apropos</a></p>
+          <p><a href='#temoignage'>Témoignage</a></p>
+          <p><a href='#classes'>Les classes</a></p>
+          <p><a href='#remise-diplôme'>Les Lauréats</a></p>
+          <p><a href='#genies'>Les Génies</a></p>
+        </div>
         <div className='gpt3__footer-links_div'>
+          <h4>Nous Contacter</h4>
+          <p>Emplacement : Ouagadougou, Nagrin à 100 mètre cu CSPS De Nagrin</p>
+          <p>Tel : 67121285</p>
+          <p>Tel : 70941708</p>
+          <p>Tel : 78053433</p>
+          <p>Email : yamgloire@gmail.com</p>
+        </div>
+        {/* <div className='gpt3__footer-links_div'>
           <h4>Company</h4>
           <p>Terms & Conditions</p>
           <p>Privacy Policy</p>
           <p>Contact</p>
-        </div>  
-        <div className='gpt3__footer-links_div'>
-          <h4>Get in Touch</h4>
-          <p>Crechtewoord K12 182 DK Alknjcb</p>
-          <p>085-132567</p>
-          <p>amenyona@late.com</p>
-        </div>    
+        </div> */}
       </div>
+      <a href="https://wa.me/22660121285" class="whatsapp_float" target="_blank" rel="noreferrer"> <i class="fa fa-whatsapp whatsapp-icon"></i></a>
       <div className='gpt3__footer-copyrigth'><p>2023 Amenyona Enyo LATE All rigths reserved.</p></div>
     </div>
   )

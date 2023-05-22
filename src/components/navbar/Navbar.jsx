@@ -27,10 +27,10 @@ function Navbar() {
           <Menu />
         </div>
       </div>
-      <div className='gpt3__navbar-sign'>
+      {/* <div className='gpt3__navbar-sign'>
         <p>Sign in</p>
         <button type='button'>Sign Up</button>
-      </div>
+      </div> */}
       <div className='gpt3__navbar-menu'>
         {togglemenu
           ? <RiCloseLine color="#fff" size={27} onClick={() => setToggleMenu(false)} />
@@ -40,10 +40,10 @@ function Navbar() {
           <div className='gpt3__navbar-menu_container scale-up-center'>
             <div className='gpt3__navbar-menu_container-links'>
               <Menu />
-              <div className='gpt3__navbar-menu_container-links-sign'>
+              {/* <div className='gpt3__navbar-menu_container-links-sign'>
                 <p>Sign in</p>
                 <button type='button'>Sign Up</button>
-              </div>
+              </div> */}
             </div>
           </div>
         )

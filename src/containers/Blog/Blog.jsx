@@ -11,7 +11,7 @@ function Blog() {
       </div>
       <div className='gpt3__blog-container'>
         <div className='gpt3__blog-container_groupA'>
-          <Article imgUrl={avatar1} date="Mars 10, 2023" title="Enseignant: M. LATE Amenyona Enyo"/>
+          <Article imgUrl={avatar1} date="Mai 20, 2023" title="Il y a la remise des diplômes le samedi 20 Mai 2023. Ce fut un moment de joie partagée. "/>
         </div>
         <div className='gpt3__blog-container_groupB'>
         <Article imgUrl={avatar2} date="Mars 10, 2023" title="Les élèves de la quatrième II"/>
