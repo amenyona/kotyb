@@ -6,7 +6,7 @@ function Footer() {
   return (
     <div className='gpt3__footer section__padding'>
       <div className='gpt3__footer-heading'>
-        <h1 className='gradient__text'>Voulez-vous que vos enfants entrent dans le futur avant les autres, choisissez le Lycée Privé Moderne KOTYB</h1>
+        <h1 className='gradient__text'>Voulez-vous que vos enfants entrent dans le futur avant les autres? <br/>Choisissez alors le Lycée Privé Moderne KOTYB.</h1>
       </div>
       {/* <div className='gpt3__footer-btn'>
         <p>Request Early Acces</p>
@@ -14,7 +14,7 @@ function Footer() {
       <div className='gpt3__footer-links'>
         <div className='gtp3__footer-links_logo'>
           <img src={logo} alt="logo" />
-          <p>Le Lycée Privé Moderne KOTYB, notre assurance pour la réussite!!!</p>
+          <p>Discipline - Savoir - Réussite</p>
         </div>
         <div className='gpt3__footer-links_div'>
           <h4>Liens</h4>
@@ -27,7 +27,7 @@ function Footer() {
         </div>
         <div className='gpt3__footer-links_div'>
           <h4>Nous Contacter</h4>
-          <p>Emplacement : Ouagadougou, Nagrin à 100 mètre cu CSPS De Nagrin</p>
+          <p>Emplacement : Ouagadougou, Nagrin à 100 mètres du CSPS de Nagrin.</p>
           <p>Tel : 67121285</p>
           <p>Tel : 70941708</p>
           <p>Tel : 78053433</p>

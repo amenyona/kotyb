@@ -61,6 +61,7 @@ const App = () => {
         { url: hrefe+"/kotyb52.jpeg"},
         { url: hrefe+"/kotyb53.jpeg"},
         { url: hrefe+"/koty54.jpeg"},
+       
 
     ];
     const containerStyles = {

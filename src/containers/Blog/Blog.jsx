@@ -17,7 +17,7 @@ function Blog() {
         <Article imgUrl={avatar2} date="Mars 10, 2023" title="Les élèves de la quatrième II"/>
         <Article imgUrl={avatar3} date="Mars 10, 2023" title="Les élèves de la cinquième I"/>
         <Article imgUrl={avatar4} date="Mars 10, 2023" title="Les élèves de la quatrième I"/>
-        <Article imgUrl={avatar5} date="Mars 10, 20232" title="Les élèves de la sixième"/>
+        <Article imgUrl={avatar5} date="Mars 10, 20232" title="Les élèves de la sixième III"/>
         </div>
       </div>
     </div>

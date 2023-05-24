@@ -4,31 +4,31 @@ import './features.css';
 
 const featuresData = [
   {
-    title: 'Classe de Terminale',
+    title: 'Classes de Terminale',
     text: 'Le Lycée Privé Moderne KOTYB dispose de deux classes de terminale: une terminale A et une terminale D.'
   },
   {
-    title: 'Classe de Première',
-    text: 'Il y a deux classes de première : une première A et une première D.'
+    title: 'Classes de Première',
+    text: 'Le Lycée Privé Moderne KOTYB dispose de deux classes de première : une première A et une première D.'
   },
   {
-    title: 'Classe de Seconde',
-    text: 'Il y a deux classes de seconde : une seconde A et une seconde D.'
+    title: 'Classes de Seconde',
+    text: 'Le Lycée Privé Moderne KOTYB dispose de deux classes de seconde : une seconde A et une seconde D.'
   },
   {
-    title: 'Classe de Troisème',
+    title: 'Classes de Troisème',
     text: 'Le Lycée Privé Moderne KOTYB dispose de quatre classes de troisième.'
   },
   {
-    title: 'Classe de Quatrième',
+    title: 'Classes de Quatrième',
     text: 'Le Lycée Privé Moderne KOTYB dispose de deux classes de quatrième.'
   },
   {
-    title: 'Classe de Cinquième',
+    title: 'Classes de Cinquième',
     text: 'Le Lycée Privé Moderne KOTYB dispose de deux classes de cinquième.'
   },
   {
-    title: 'Classe de Sixième',
+    title: 'Classes de Sixième',
     text: 'Le Lycée Privé Moderne KOTYB dispose de trois classes de sixième.'
   },
 ]
